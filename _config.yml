@@ -1,10 +1,10 @@
-url: http://hillaryprison.org
-baseurl: http://presente.github.io/hillary/
+url: http://presente.github.io/mothersday/
+baseurl: http://presente.github.io/mothersday/
 
 # Site settings
-title: HillaryPrison.org
+title: Mother's Day
 email: info@presente.org
-description: "Hillary / DNC: Cut ties with private prisons!"
+description: "No mother should be in detention"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
