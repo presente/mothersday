@@ -12,6 +12,11 @@ color:
   primary: 655643
   secondary: fec503
   secondary-dark: 333
+  primary: F6F7BD
+  #secondary: fec503
+  secondary: E6AC27
+  #secondary-dark: 333
+  secondary-dark: 655643
 
 # Build settings
 markdown: kramdown
